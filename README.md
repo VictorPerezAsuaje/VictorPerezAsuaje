@@ -4,7 +4,9 @@ I’m Victor Pérez Asuaje, nice to meet you 😄
 
 ## 👀 About me
 
-I like front-end development and design, but honestly I enjoy both front and back end. When I'm not coding I try to design, write articles, create tutorials/animations for
+I like front-end development and design, but honestly I enjoy both front and back end. In fact, I've worked on projects with Django and I've done some projects using Python for Data Science with Jupyter Notebook. 
+
+When I'm not coding I try to design, write articles, create tutorials/animations for
 youtube, or just chill playing guitar or piano 🎵.
 
 
