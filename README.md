@@ -4,7 +4,7 @@ I’m Victor Pérez Asuaje, nice to meet you 😄
 
 ## 👀 About me
 
-I like front-end development and design, but honestly I enjoy both front and back end. In fact, I've worked on projects with Django and I've done some projects using Python for Data Science with Jupyter Notebook. 
+Lately I've been mostly working on front-end development and design, but honestly I enjoy both front and back end. In fact, I've worked on projects with Django and I've done some projects using Python for Data Science with Jupyter Notebook. 
 
 When I'm not coding I try to design, write articles, create tutorials/animations for
 youtube, or just chill playing guitar or piano 🎵.
@@ -19,8 +19,9 @@ Meanwhile I try to post what I'm learning on my Social Media, so feel free to fo
 
 ## 📫 How to reach me
 
-You can contact me on any TodayILearned page:
+You can contact me on my own website or any TodayILearned page:
 
+- Web Portfolio: https://www.victorperezasuaje.com/#contact
 - Facebook: https://www.facebook.com/TodayILearnedWeb
 - Instagram: https://www.instagram.com/todayilearned_eu/
 - Email: support@todayilearned.com
