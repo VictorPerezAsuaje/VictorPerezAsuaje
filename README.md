@@ -4,31 +4,22 @@ I’m Victor Pérez Asuaje, nice to meet you 😄
 
 ## 👀 About me
 
-Lately I've been mostly working on front-end development and design, but honestly I enjoy both front and back end. In fact, I've worked on projects with Django and I've done some projects using Python for Data Science with Jupyter Notebook. 
+I'm a full stack web developer that uses .NET (both framework and core) on a daily basis. I enjoy both front and back end, but lately I've been mostly interested in software arquitecture in terms of system design, which has led me to discover how much I didn't know that I didn't know despite having 2 years of experience.
 
-Also, I recently "discovered" the UX area, Android Development and ASP.NET Core MVC, so I'm pretty much hooked on those three hehe
-
-When I'm not coding I try to design, write articles, create tutorials/animations for
-youtube, or just chill playing guitar or piano 🎵.
+When I'm not coding I try to design, write articles, create tutorials for youtube, or just chill playing guitar or piano 🎵.
 
 
 ## 🌱 What I'm up to right now
 
-I’m currently deepening my knowledge on CSS, SASS and Javascript. I'm also studying for the Advanced Tecnician Certificate on Multiplatform Application Development. 
+Recently I have published my first nuget package. I know, "big deal 🙄", right? But it was a first for me 😁. It is called "AdvancedRepositories" and it's on a pre-release state, but you can check it out and use it freely as it's open source:
 
-Meanwhile I try to post what I'm learning on my Social Media, so feel free to follow me on instagram @todayilearned_eu.
+NuGET: https://www.nuget.org/packages/AdvancedRepositories/0.2.1-pre
+GitHub: https://github.com/VictorPerezAsuaje/AdvancedRepositories
 
 
 ## 📫 How to reach me
 
-You can contact me on my own website or any TodayILearned page:
-
-- Web Portfolio: https://www.victorperezasuaje.com/#contact
-- Facebook: https://www.facebook.com/TodayILearnedWeb
-- Instagram: https://www.instagram.com/todayilearned_eu/
-- Email: support@todayilearned.com
-
-Or personally at LinkedIn: https://www.linkedin.com/in/victor-perez-asuaje/
+You can contact me via LinkedIn! Let's connect 😉: https://www.linkedin.com/in/victor-perez-asuaje/
 
 <!---
 VictorPerezAsuaje/VictorPerezAsuaje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
