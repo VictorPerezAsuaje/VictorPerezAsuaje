@@ -13,7 +13,7 @@ When I'm not coding I try to design, write articles, create tutorials for youtub
 
 I've been quite invested into determining which will be my "next step". However, in the meantime, I've been learning WebComponents, Cybersecurity (which seems to be a broader area than I expected it to be) and Angular 17 + NET 8 API.
 
-OpenERP Components (WebComponents): (https://openerp-components.victorperezasuaje.com/)[https://openerp-components.victorperezasuaje.com/]
+OpenERP Components (WebComponents): https://openerp-components.victorperezasuaje.com/
 
 ## 📫 How to reach me
 
