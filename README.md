@@ -11,11 +11,9 @@ When I'm not coding I try to design, write articles, create tutorials for youtub
 
 ## 🌱 What I'm up to right now
 
-Recently I have published my first nuget package. I know, "big deal 🙄", right? But it was a first for me 😁. It is called "AdvancedRepositories" and it's on a pre-release state, but you can check it out and use it freely as it's open source:
+I've been quite invested into determining which will be my "next step". However, in the meantime, I've been learning WebComponents, Cybersecurity (which seems to be a broader area than I expected it to be) and Angular 17 + NET 8 API.
 
-NuGET: https://www.nuget.org/packages/AdvancedRepositories/0.2.1-pre
-GitHub: https://github.com/VictorPerezAsuaje/AdvancedRepositories
-
+OpenERP Components (WebComponents): (https://openerp-components.victorperezasuaje.com/)[https://openerp-components.victorperezasuaje.com/]
 
 ## 📫 How to reach me
 
