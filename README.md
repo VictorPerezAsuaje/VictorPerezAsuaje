@@ -4,10 +4,9 @@ I’m Victor Pérez Asuaje, nice to meet you 😄
 
 ## 👀 About me
 
-I'm a full stack web developer that uses .NET (both framework and core) on a daily basis. I enjoy both front and back end, but lately I've been mostly interested in software arquitecture in terms of system design, which has led me to discover how much I didn't know that I didn't know despite having 2 years of experience.
+I'm a full-stack web developer who uses .NET (both framework and core) on a daily basis. I enjoy both front-end and back-end development, but I've been mostly interested in software architecture in terms of system design. Nevertheless, lately, I've found myself delving into more in-depth knowledge in SQL and database management, system administration, and cybersecurity; so who knows where this path will lead to!
 
-When I'm not coding I try to design, write articles, create tutorials for youtube, or just chill playing guitar or piano 🎵.
-
+When I'm not coding, I try to write articles (sadly, almost none lately), do some exercise (I've been picking up calisthenics once again) 🏃‍♂️ or just chill by playing the guitar or piano 🎵.
 
 ## 🌱 What I'm up to right now
 
